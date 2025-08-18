@@ -43,6 +43,19 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 - Calculates the **death rate in each age group**.
 - Displays the results as a **bar plot**.
 
+### Insights
+
+Older age groups show significantly higher mortality rates.
+
+Male individuals tend to have slightly higher death rates compared to females.
+
+Visualizations help in quickly identifying high-risk groups.
+
+### Contributing
+
+Contributions are welcome!
+Feel free to fork the repository, make improvements, and submit a pull request.
+
 ---
 
 ##  Dependencies
@@ -51,4 +64,6 @@ Make sure the following R packages are installed:
 
 ```r
 install.packages("Hmisc")
+
+
 
