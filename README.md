@@ -45,11 +45,11 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 
 ### Insights
 
-Older age groups show significantly higher mortality rates.
+• Older age groups show significantly higher mortality rates.
 
-Male individuals tend to have slightly higher death rates compared to females.
+• Male individuals tend to have slightly higher death rates compared to females.
 
-Visualizations help in quickly identifying high-risk groups.
+• Visualizations help in quickly identifying high-risk groups.
 
 ### Contributing
 
