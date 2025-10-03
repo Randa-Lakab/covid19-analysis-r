@@ -56,7 +56,7 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 Contributions are welcome!
 Feel free to fork the repository, make improvements, and submit a pull request.
 
----
+
 
 ##  Dependencies
 
