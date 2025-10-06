@@ -38,7 +38,7 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 - Compares **mortality rate for males and females**.
 - Performs a **t-test** to assess statistical significance.
 
-###  Age Group Mortality
+####  Age Group Mortality
 - Age is grouped into ranges: `0–20`, `21–40`, `41–60`, `61–80`, `81–100`, `100+`.
 - Calculates the **death rate in each age group**.
 - Displays the results as a **bar plot**.
