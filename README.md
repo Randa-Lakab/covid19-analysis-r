@@ -18,7 +18,7 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 
 ###  What This Analysis Covers
 
-###  Data Summary
+####  Data Summary
 - Using the `Hmisc::describe()` function to get a general overview of the dataset.
 
 ###  Data Cleaning
