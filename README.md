@@ -29,7 +29,7 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 ####  Death Rate
 - Calculates the **overall mortality rate**.
 
-###  Age Analysis
+####  Age Analysis
 - Compares the **mean age** of deceased vs. alive individuals.
 - Performs a **t-test** to check if the difference is statistically significant.
 - Plots a **boxplot** comparing age distribution by death status.
