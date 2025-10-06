@@ -34,7 +34,7 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 - Performs a **t-test** to check if the difference is statistically significant.
 - Plots a **boxplot** comparing age distribution by death status.
 
-###  Gender Analysis
+####  Gender Analysis
 - Compares **mortality rate for males and females**.
 - Performs a **t-test** to assess statistical significance.
 
