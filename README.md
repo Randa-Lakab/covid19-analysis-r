@@ -1,4 +1,4 @@
-##  COVID-19 Mortality Data Analysis in R
+###  COVID-19 Mortality Data Analysis in R
 
 This repository presents a simple but insightful analysis of COVID-19 mortality data using R.  
 The goal is to explore how **age** and **gender** influence mortality rates, and to visualize these relationships through basic statistical tests and plots.
