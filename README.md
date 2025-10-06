@@ -21,7 +21,7 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 ####  Data Summary
 - Using the `Hmisc::describe()` function to get a general overview of the dataset.
 
-###  Data Cleaning
+####  Data Cleaning
 - A new binary column `death_dummy` is created:  
   - `1` for death ≠ 0  
   - `0` otherwise
