@@ -26,7 +26,7 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
   - `1` for death ≠ 0  
   - `0` otherwise
 
-###  Death Rate
+####  Death Rate
 - Calculates the **overall mortality rate**.
 
 ###  Age Analysis
