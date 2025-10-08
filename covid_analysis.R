@@ -1,7 +1,6 @@
 rm(list=ls())  # removes all variables stored previously
 
 #  Load necessary package
-
 library(Hmisc)  # for describe()
 
 #  Load dataset
