@@ -2,7 +2,8 @@
 
 This repository presents a simple but insightful analysis of COVID-19 mortality data using R.  
 The goal is to explore how **age** and **gender** influence mortality rates, and to visualize these relationships through basic statistical tests and plots.
-
+
+
 ###  Project Structure
 
 | File                          | Description                                  |
@@ -11,7 +12,6 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 | `COVID19_line_list_data.csv`  | The dataset used in the analysis.            |
 | `boxplot_age_by_death.png`    | Visualization of age distribution by death status. |
 | `barplot_death_rate_by_age_group.png` | Death rate by age group as a bar plot. |
-
 
 
 ###  What This Analysis Covers
@@ -62,6 +62,7 @@ Make sure the following R packages are installed:
 
 ```r
 install.packages("Hmisc")
+
 
 
 
