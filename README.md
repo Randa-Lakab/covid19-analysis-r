@@ -13,7 +13,6 @@ The goal is to explore how **age** and **gender** influence mortality rates, and
 | `boxplot_age_by_death.png`    | Visualization of age distribution by death status. |
 | `barplot_death_rate_by_age_group.png` | Death rate by age group as a bar plot. |
 
-
 ###  What This Analysis Covers
 
 ####  Data Summary
@@ -62,6 +61,7 @@ Make sure the following R packages are installed:
 
 ```r
 install.packages("Hmisc")
+
 
 
 
